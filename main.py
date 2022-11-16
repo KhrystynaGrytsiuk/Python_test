@@ -1,2 +1,6 @@
 
-print("Hello!")
+print ("Hello!")
+
+x=10
+
+print(x)
